@@ -1,0 +1,56 @@
+
+Channel NPCs saved Sun Aug 30 13:46:36 2026
+13:39 Talking to Captain Fearless
+13:39 Captain Fearless: Welcome on board, Henrique. Where can I sail you today?
+13:39 Henrique [28]: issavi
+13:39 Henrique [28]: yes
+13:39 Captain Fearless: Do you seek a passage to Issavi for 130 gold?
+13:39 Captain Fearless: Set the sails!
+13:39 Talking to Captain Harava
+13:39 Henrique [28]: thais
+13:39 Captain Harava: Welcome on board, traveller. Where can I sail you today?
+13:39 Henrique [28]: yes
+13:39 Henrique [28]: venore
+13:39 Henrique [28]: yes
+13:39 Captain Harava: Do you seek a passage to Venore for 80 gold?
+13:39 Talking to Captain Fearless
+13:39 Captain Harava: Set the sails!
+13:39 Captain Fearless: Welcome on board, Henrique. Where can I sail you today?
+13:39 Henrique [28]: thais
+13:39 Henrique [28]: yes
+13:39 Captain Fearless: Do you seek a passage to Thais for 170 gold?
+13:39 Captain Fearless: Set the sails!
+13:40 Talking to King Tibianus
+13:40 Stutch: HAIL TO THE KING!
+13:40 Harsky: HAIL TO THE KING!
+13:40 King Tibianus: I greet thee, my loyal subject Henrique.
+13:40 Henrique [28]: promotion
+13:40 Henrique [28]: yes
+13:40 King Tibianus: Congratulations! You are now promoted.
+13:40 Henrique [28]: bye
+13:40 Stutch: LONG LIVE THE KING! You may leave now!
+13:40 Harsky: LONG LIVE THE KING! You may leave now!
+13:41 Talking to Captain Bluebear
+13:41 Captain Bluebear: Welcome on board, Henrique. Where can I sail you today?
+13:41 Henrique [28]: venore
+13:41 Henrique [28]: yes
+13:41 Captain Bluebear: Do you seek a passage to Venore for 170 gold?
+13:41 Captain Bluebear: Set the sails!
+13:41 Talking to Captain Fearless
+13:41 Captain Fearless: Welcome on board, Henrique. Where can I sail you today?
+13:41 Henrique [28]: issavi
+13:41 Henrique [28]: yes
+13:41 Captain Fearless: Do you seek a passage to Issavi for 130 gold?
+13:41 Captain Fearless: Set the sails!
+13:43 Talking to Captain Bluebear
+13:43 Captain Bluebear: Welcome on board, Henrique. Where can I sail you today?
+13:43 Henrique [27]: venore
+13:43 Henrique [27]: yes
+13:43 Captain Bluebear: Do you seek a passage to Venore for 170 gold?
+13:43 Captain Bluebear: Set the sails!
+13:43 Talking to Captain Fearless
+13:43 Captain Fearless: Welcome on board, Henrique. Where can I sail you today?
+13:43 Henrique [27]: issavi
+13:43 Captain Fearless: Do you seek a passage to Issavi for 130 gold?
+13:43 Henrique [27]: yes
+13:43 Captain Fearless: Set the sails!
